@@ -6,7 +6,7 @@ I am a student currently learning GitHub and software development.
 
 ---
 
- ###🚀 About Me
+###🚀 About Me
 - 🔭 I’m currently learning: **GitHub & Web Development**
 - 💼 My goal: **Build awesome projects on GitHub**
 - 💬 Ask me about: **Basic programming & software concepts**
