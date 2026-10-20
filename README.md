@@ -19,6 +19,3 @@ Saya seorang yang baru belajar GitHub dan berminat dalam pembangunan perisian.
 - **Kawalan Versi (Version Control):** Git, GitHub
 
 ---
-
-### 📊 Statistik GitHub
-![Statistik GitHub Chenbeh1219](https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_GITHUB&show_icons=true&theme=radial)
