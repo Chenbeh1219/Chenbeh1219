@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Chenbeh1219/Chenbeh1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hai, saya BEH YI CHEN!
 
-Here are some ideas to get you started:
+Saya seorang yang baru belajar GitHub dan berminat dalam pembangunan perisian.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mengenai Saya
+- 🔭 Saya kini sedang belajar: **GitHub & Pembangunan Web**
+- 💼 Matlamat saya: **Membina projek-projek menarik di GitHub**
+- 💬 Tanya saya tentang: **Perkara asas berkaitan pengaturcaraan**
+- 📫 Cara hubungi saya: **behyichen1219@gmail.com**
+
+---
+
+### 🛠️ Kemahiran & Tools
+- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript, Python
+- **Kawalan Versi (Version Control):** Git, GitHub
+
+---
+
+### 📊 Statistik GitHub
+![Statistik GitHub Chenbeh1219](https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_GITHUB&show_icons=true&theme=radial)
