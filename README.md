@@ -1,21 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Beh Yi Chen!
 
-# 👋 Hai, saya BEH YI CHEN!
+<p align="center">
+  <img src="your-photo.jpg" alt="Beh Yi Chen" width="200"/>
+</p>
 
-Saya seorang yang baru belajar GitHub dan berminat dalam pembangunan perisian.
-
----
-
-### 🚀 Mengenai Saya
-- 🔭 Saya kini sedang belajar: **GitHub & Pembangunan Web**
-- 💼 Matlamat saya: **Membina projek-projek menarik di GitHub**
-- 💬 Tanya saya tentang: **Perkara asas berkaitan pengaturcaraan**
-- 📫 Cara hubungi saya: **behyichen1219@gmail.com**
+I am a student currently learning GitHub and software development.
 
 ---
 
-### 🛠️ Kemahiran & Tools
-- **Bahasa Pengaturcaraan:** HTML, CSS, JavaScript, Python
-- **Kawalan Versi (Version Control):** Git, GitHub
+### 🚀 About Me
+- 🔭 I’m currently learning: **GitHub & Web Development**
+- 💼 My goal: **Build awesome projects on GitHub**
+- 💬 Ask me about: **Basic programming & software concepts**
+- 📫 How to reach me: **your.email@example.com**
+
+---
+
+### 🛠️ Skills & Tools
+- **Programming Languages:** HTML, CSS, JavaScript, Python
+- **Version Control:** Git, GitHub
 
 ---
