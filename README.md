@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beh Yi Chen!
 
-<img src="profile.jpeg" alt="Beh Yi Chen" width="200"/>
+IMG-20261012-WA0034.jpeg
 
 I am a student currently learning GitHub and software development.
 
