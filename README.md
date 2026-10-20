@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Beh Yi Chen!
 
-<p align="center">
-  <img src="your-photo.jpeg" alt="Beh Yi Chen" width="200"/>
-</p>
+<img src="profile.jpeg" alt="Beh Yi Chen" width="200"/>
 
 I am a student currently learning GitHub and software development.
 
