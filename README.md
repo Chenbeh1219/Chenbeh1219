@@ -5,9 +5,8 @@ I am a Data Engineering student currently mastering software development and dat
 ## 🚀 About Me
 * 🔭 **I’m currently learning:** Data Engineering, Web Development, and C++
 * 💼 **My goal:** Build impactful projects and solve complex data problems
-* 💬 **Ask me about:** Python, C++, HTML/CSS, and basic programming concepts
 * 📫 **How to reach me:** [behyichen1219@gmail.com](mailto:behyichen1219@gmail.com)
-* 🔗 **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+* 🔗 **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/beh-yi-chen-098758243/))
 
 ## 🛠️ Skills & Tools
 
@@ -19,7 +18,6 @@ I am a Data Engineering student currently mastering software development and dat
 ![SQL](https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Version Control & Tools:**
 
