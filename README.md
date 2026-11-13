@@ -6,7 +6,7 @@ I am a Data Engineering student currently mastering software development and dat
 * 🔭 **I’m currently learning:** Data Engineering, Web Development, and C++
 * 💼 **My goal:** Build impactful projects and solve complex data problems
 * 📫 **How to reach me:** [behyichen1219@gmail.com](mailto:behyichen1219@gmail.com)
-* 🔗 **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/beh-yi-chen-098758243/))
+* 🔗 **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/beh-yi-chen-098758243))
 
 ## 🛠️ Skills & Tools
 
